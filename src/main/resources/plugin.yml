@@ -1,0 +1,6 @@
+name: Faction
+version: 1.0.0
+author: Twah2em
+main: fr.twah2em.faction.Main
+commands:
+  test:
